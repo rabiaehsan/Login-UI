@@ -1,4 +1,4 @@
-# lgoin_ui
+# login_ui
 
 A new Flutter project.
 I have created a simple UI of te Login Screen using Flutter framwork.
