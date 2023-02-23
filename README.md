@@ -1,8 +1,11 @@
 # lgoin_ui
 
 A new Flutter project.
+I have created a simple UI of te Login Screen using Flutter framwork.
+For Futher learing.
 
-## Getting Started
+
+# Getting Started
 
 This project is a starting point for a Flutter application.
 
