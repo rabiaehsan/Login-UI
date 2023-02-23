@@ -181,15 +181,4 @@ class MyApp extends StatelessWidget {
   }
 }
 
-class Sign_Up extends StatelessWidget {
-  const Sign_Up({super.key});
 
-  @override
-  Widget build(BuildContext context) {
-    return Column(
-      children: const [
-        Text('Sign Up'),
-      ],
-    );
-  }
-}
